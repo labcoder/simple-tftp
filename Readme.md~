@@ -13,5 +13,5 @@
 <h3>Server</h3>
 <pre>./server [-p port]</pre>
 <h3>Client</h3>
-<pre>./client [-p port] [-h hostname] -f filename</pre>
+<pre>./client [-p port] [-h hostname] -f <filename></pre>
 </html>
